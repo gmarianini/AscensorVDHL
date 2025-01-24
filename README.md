@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/639f8f2b-1461-4d41-b26a-1addb5a445c8
+
 # AscensorVDHL
 Este proyecto implementa la lógica de un ascensor utilizando el lenguaje de descripción de hardware VHDL. Está diseñado para manejar múltiples pisos, botones de llamada y otras funcionalidades propias de un ascensor real. Es ideal para practicar y comprender el diseño digital y la implementación en hardware mediante FPGA.
 
