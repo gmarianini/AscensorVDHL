@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Fri Jan 24 19:22:58 2025
+# Process ID: 51020
+# Current directory: C:/Users/gmari/Documents/uni/project_oficial
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent75756 C:\Users\gmari\Documents\uni\project_oficial\project_oficial.xpr
+# Log file: C:/Users/gmari/Documents/uni/project_oficial/vivado.log
+# Journal file: C:/Users/gmari/Documents/uni/project_oficial\vivado.jou
+# Running On        :DESKTOP-J3D7S7M
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx  
+# CPU Frequency     :2296 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :14977 MB
+# Swap memory       :6979 MB
+# Total Virtual     :21956 MB
+# Available Virtual :2886 MB
+#-----------------------------------------------------------
+start_gui
